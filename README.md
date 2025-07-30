@@ -13,10 +13,10 @@ Este repositorio contiene un conjunto de notebooks para el análisis, procesamie
 3. [Preprocesamiento, Clasifica Normativas](notebooks/03_Preprocesamiento_EDA_Clasifica_Normativas.ipynb)  
    Preprocesamiento de los datos y análisis exploratorio para la clasificación de normativas. Se preparan los datos para su posterior modelado.
 
-4. [Preprocesamiento_Embbedings_Redis.ipynb](notebooks/04 Preprocesamiento_Embbedings_Redis.ipynb)  
+4. [Preprocesamiento_Embbedings_Redis.ipynb](notebooks/04_Preprocesamiento_Embbedings_Redis.ipynb)  
    Generación de embeddings para los textos de las normativas y su almacenamiento en Redis para facilitar búsquedas y consultas eficientes.
 
-5. [Clasificar Normativas Nuevas](notebooks/05 Clasificar_Normativas_Nuevas_v4.ipynb)  
+5. [Clasificar Normativas Nuevas](notebooks/05_Clasificar_Normativas_Nuevas_v4.ipynb)  
    Implementación y evaluación de modelos para la clasificación automática de nuevas normativas.
 
 ## Estructura de Carpetas

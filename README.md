@@ -16,7 +16,7 @@ Este repositorio contiene un conjunto de notebooks para el análisis, procesamie
 4. [Preprocesamiento_Embbedings_Redis.ipynb](notebooks/04_Preprocesamiento_Embbedings_Redis.ipynb)  
    Generación de embeddings para los textos de las normativas y su almacenamiento en Redis para facilitar búsquedas y consultas eficientes.
 
-5. [Clasificar Normativas Nuevas](notebooks/05_Clasificar_Normativas_Nuevas_v4.ipynb)  
+5. [Agente Vigilante](notebooks/Agente_Vigilante/Modelado_AgenteVigilante.ipynb)  
    Implementación y evaluación de modelos para la clasificación automática de nuevas normativas.
 
 ## Estructura de Carpetas
